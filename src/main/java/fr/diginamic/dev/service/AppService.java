@@ -16,7 +16,7 @@ public class AppService
 
     }
 
-    public void timeStamp(String param){
+    public void executeWithTimeStamp(String param){
 
         long start = System.currentTimeMillis();
         executer(param);
