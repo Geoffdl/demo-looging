@@ -22,6 +22,6 @@ public class App
         LOGGER.info("Temp is {}", temp);
 
         AppService a = new AppService();
-        a.executer("test");
+        a.executer("Message de test");
     }
 }

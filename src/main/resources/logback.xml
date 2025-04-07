@@ -18,9 +18,12 @@
     </appender>
 
 
-    <logger name="fr.diginamic.dev.service.AppService" level="INFO" additivity="false">
+    <logger name="fr.diginamic.dev.service.AppService" level="DEBUG" additivity="false">
         <appender-ref ref="FILE" />
     </logger>
+<!--    <logger name="fr.diginamic.dev.service.AppService" level="INFO" additivity="false">-->
+<!--        <appender-ref ref="FILE" />-->
+<!--    </logger>-->
 
     <!-- Root logger - only to console -->
     <root level="INFO">
