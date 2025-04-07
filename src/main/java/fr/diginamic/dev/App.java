@@ -22,7 +22,7 @@ public class App
         LOGGER.info("Temp is {}", temp);
 
         AppService a = new AppService();
-        a.executer("Message de test");
+//        a.executer("Message de test");
 
         a.timeStamp("Test message");
     }

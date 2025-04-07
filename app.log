@@ -1,26 +1,3 @@
-11:14:34.441 [main] INFO  fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:14:34.442 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:20:54.903 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:20:54.903 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:21:01.970 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:21:01.970 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:21:05.602 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:21:05.602 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:23:53.080 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:23:53.080 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:23:53.080 [main] DEBUG fr.diginamic.dev.service.AppService - 1744017833080
-11:23:53.080 [main] DEBUG fr.diginamic.dev.service.AppService - 1744017833080
-11:26:17.703 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:26:17.703 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:26:17.703 [main] DEBUG fr.diginamic.dev.service.AppService - 1744017977703000
-11:26:17.703 [main] DEBUG fr.diginamic.dev.service.AppService - 1744017977703000
-11:28:14.189 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:28:14.189 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:28:14.189 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Test message
-11:28:14.189 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Test message
-11:28:14.189 [main] INFO  fr.diginamic.dev.service.AppService - in 0.0 seconds
-11:28:48.682 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Message de test
-11:28:48.683 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Message de test
-11:28:48.683 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Test message
-11:28:48.683 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Test message
-11:28:48.683 [main] INFO  fr.diginamic.dev.service.AppService - Finished executer() in 0.0 seconds
+11:39:01.798 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 1 : param = Test message
+11:39:01.800 [main] DEBUG fr.diginamic.dev.service.AppService - Traitement 2 : param = Test message
+11:39:01.800 [main] INFO  fr.diginamic.dev.service.AppService - Finished executer() in 0.002 seconds
