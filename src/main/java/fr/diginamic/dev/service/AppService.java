@@ -9,14 +9,10 @@ public class AppService
 
     public void executer(String param)
     {
-        try
-        {
-            LOG.debug("Traitement 1 : param = {}", param);
-            LOG.info("Printed {} to app.log", param);
-        } catch (Exception e)
-        {
-            throw new RuntimeException(e);
-        }
+
+
+        LOG.debug("Traitement 1 : param = {}", param);
+
 
     }
 }
