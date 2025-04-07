@@ -11,8 +11,8 @@ public class AppService
     public void executer(String param)
     {
 
-        LOGGER.info("Traitement 1 : param = {}", param);
         LOGGER.debug("Traitement 1 : param = {}", param);
+        LOGGER.debug("Traitement 2 : param = {}", param);
 
 
         /*
@@ -21,6 +21,15 @@ public class AppService
         double time = (double)(start - end )* 1000;
         LOG.info("in {} seconds", time);
         */
+
+    }
+
+    public void timeStamp(String param){
+
+        long start = System.currentTimeMillis();
+        executer(param);
+        long end = System.currentTimeMillis();
+        LOGGER.info("Finished executer() in {} seconds", (double)(start - end )* 1000);
 
     }
 }

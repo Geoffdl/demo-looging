@@ -23,5 +23,7 @@ public class App
 
         AppService a = new AppService();
         a.executer("Message de test");
+
+        a.timeStamp("Test message");
     }
 }
